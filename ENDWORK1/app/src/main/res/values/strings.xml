@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ENDWORK</string>
+    <drawable name="clr_normal">#000</drawable>
+    <drawable name="clr_pressed">#edebe9</drawable>
+</resources>
